@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/nikhil_twt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhil_twt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-wg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-wg" height="30" width="40" /></a>
-<a href="https://hashnode.com/@nikhilwagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nikhilwagh" height="30" width="40" /></a>
-<a href="/https://nikhilwagh.hashnode.dev/?source=top_nav_blog_home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nikhilwagh.hashnode.dev/?source=top_nav_blog_home" height="30" width="40" /></a>
+<a href="https://nikhilwagh.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@nikhilwagh" height="30" width="40" /></a>
+</a>
 </p>
 
